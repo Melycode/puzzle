@@ -1,0 +1,94 @@
+h1 {
+    color:blue;
+}
+
+#contenedor { /*id*/
+    background-color: gray;
+    width:300px;
+    height:300px;
+}
+
+.primera { /*clase*/
+    background-color:orange;
+    width:100px;
+    height:50px;
+    position: absolute;
+}
+
+.segunda {
+    background-color:rgb(203, 17, 138);
+    width:100px;
+    height:50px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.tercera {
+    background-color:rgb(88, 30, 147);
+    width:100px;
+    height:50px;
+    margin-left: 200px;
+}
+
+.cuarta {
+    background-color:rgb(53, 10, 181);
+    width:100px;
+    height:50px;
+    margin-left: 0px;
+    position: absolute;
+
+
+}
+
+.quinta {
+    background-color:rgb(172, 164, 196);
+    width:100px;
+    height:50px;
+    margin-left: 100px;
+    position: absolute;
+
+}
+
+.sexta {
+    background-color:rgb(32, 32, 31);
+    width:100px;
+    height:50px;
+    margin-left: 200px;
+
+}
+
+.septima {
+    background-color:rgb(162, 144, 215);
+    width:100px;
+    height:50px;
+    position: absolute;
+    margin-left: 0px;
+
+}
+
+.octava {
+    background-color:rgb(224, 224, 185);
+    width:100px;
+    height:50px;
+    position: absolute;
+    margin-left: 100px;
+
+}
+
+.novena {
+    background-color:rgb(49, 20, 135);
+    width:100px;
+    height:50px;
+    position: absolute;
+    margin-left: 200px;
+
+}
+
+.decima {
+    background-color:rgb(213, 152, 38);
+    width:100px;
+    height:50px;
+    position: absolute;
+    margin-left: 0px;
+
+}
