@@ -1,4 +1,51 @@
 # Puzzle 
+
+[] Texto sin marcar
+[x] Texto sin marcar
+
+|** Header Uno**| ** Header Dos**|
+|---------------| ---------------|
+|Contenido celda 1 x 1 | Contenido celda 1 x 2 | 
+|Contenido celda 2 x 1 | Contenido celda 2 x 2 | 
+
+Ejemplo de enlace:
+[Lipsum](https://www.lipsum.com/)
+https://www.lipsum.com/
+
+![gato](https://github.com/user-attachments/assets/740a6722-cd59-4b2b-b322-d576075d7f4d)
+
+
+<img src ="https://github.com/user-attachments/assets/740a6722-cd59-4b2b-b322-d576075d7f4d" width = "100">
+
+```bash
+    nmp install
+```
+
+```jvascript
+    function decirHola() {
+    console.log("Hola);
+    }
+```
+
+
+ ` `template literals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Encabezado
 ### Encabezado
 #### Encabezado
@@ -43,4 +90,6 @@ Lista ordenada
 3.- Elemento 
 
 [ ]
+
+
 
